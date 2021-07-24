@@ -1645,3 +1645,37 @@ MTI1MzgwNjIzOCwxMzQzMTQ3OTM3LDExOTUyNzEwNTgsOTQ4NT
 E2MDUwLDk1NjA4Mjg5MCwtMTEyOTE1MTY4LDUwMDkxNzA5M119
 
 -->
+```
+
+## The team
+
+Some text some text some text some text some text some text
+
+<img align="left" width="100" height="100" style="border-radius: 50px; margin-right: 15px;" src="graphics/team/yoni-goldberg.jpg"/>
+
+[Yoni Goldberg](https://github.com/goldbergyoni)
+<a href="https://twitter.com/goldbergyoni"><img src="graphics/team/twitter.png" width="16" height="16"></img></a>
+<a href="https://goldbergyoni.com"><img src="graphics/team/website.png" width="16" height="16"></img></a>
+
+Independent Node.js consultant who works with customers in the USA, Europe, and Israel on building large-scale Node.js applications. Many of the best practices above were first published at [goldbergyoni.com](https://goldbergyoni.com). Reach Yoni at [@goldbergyoni](https://github.com/goldbergyoni) or [me@goldbergyoni.com](mailto:me@goldbergyoni.com)
+
+<br/>
+
+<img align="left" width="100" height="100" style="border-radius: 50px; margin-right: 15px;" src="graphics/team/-gluskin.jpg"/>
+
+[Michael Solomon](https://github.com/mikicho)
+
+Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
+Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
+
+<br/>
+
+<img align="left" width="100" height="100" style="border-radius: 50px; margin-right: 15px;" src="graphics/team/daniel-gluskin.png"/>
+
+[Daniel Gluskin](https://github.com/danielgluskin)
+
+Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
+Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
+
+<br/>
+

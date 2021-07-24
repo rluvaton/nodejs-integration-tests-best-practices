@@ -1651,7 +1651,7 @@ E2MDUwLDk1NjA4Mjg5MCwtMTEyOTE1MTY4LDUwMDkxNzA5M119
 
 Some text some text some text some text some text some text
 
-<img align="left" width="100" height="100" style="overflow: hidden; border-radius: 50%; margin-right: 15px;" src="graphics/team/yoni-goldberg.jpg"/>
+<img align="left" width="100" height="100" style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; margin-right: 15px;" src="graphics/team/yoni-goldberg.jpg"/>
 
 [Yoni Goldberg](https://github.com/goldbergyoni)
 <a href="https://twitter.com/goldbergyoni"><img src="graphics/team/twitter.png" width="16" height="16"></img></a>
@@ -1661,7 +1661,7 @@ Independent Node.js consultant who works with customers in the USA, Europe, and 
 
 <br/>
 
-<img align="left" width="100" height="100" style="overflow: hidden; border-radius: 50%; margin-right: 15px;" src="graphics/team/-gluskin.jpg"/>
+<img align="left" width="100" height="100" style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; margin-right: 15px;" src="graphics/team/-gluskin.jpg"/>
 
 [Michael Solomon](https://github.com/mikicho)
 
@@ -1670,7 +1670,7 @@ Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text 
 
 <br/>
 
-<img align="left" width="100" height="100" style="overflow: hidden; border-radius: 50%; margin-right: 15px;" src="graphics/team/daniel-gluskin.png"/>
+<img align="left" width="100" height="100" style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; margin-right: 15px;" src="graphics/team/daniel-gluskin.png"/>
 
 [Daniel Gluskin](https://github.com/danielgluskin)
 

@@ -1653,30 +1653,31 @@ Some text some text some text some text some text some text
 
 <img align="left" width="100" height="100" style="margin-right: 15px;" src="graphics/team/yoni.jpg"/>
 
-[Yoni Goldberg](https://github.com/goldbergyoni)
+<h2><b>Yoni Goldberg</b></h2>
 <a href="https://twitter.com/goldbergyoni"><img src="graphics/team/twitter.png" width="16" height="16"></img></a>
 <a href="https://goldbergyoni.com"><img src="graphics/team/website.png" width="16" height="16"></img></a>
 
-Independent Node.js consultant who works with customers in the USA, Europe, and Israel on building large-scale Node.js applications. Many of the best practices above were first published at [goldbergyoni.com](https://goldbergyoni.com). Reach Yoni at [@goldbergyoni](https://github.com/goldbergyoni) or [me@goldbergyoni.com](mailto:me@goldbergyoni.com)
+Independent Node.js consultant who works with customers in the USA, Europe, and Israel on building large-scale Node.js applications. Reach Yoni at [@goldbergyoni](https://github.com/goldbergyoni) or [me@goldbergyoni.com](mailto:me@goldbergyoni.com).
 
 <br/>
 
 <img align="left" width="100" height="100" style="margin-right: 15px;" src="graphics/team/michael.jpg"/>
 
-[Michael Solomon](https://github.com/mikicho)
+<h2><b>Michael Solomon</b></h2>
+<br/>
 
 Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
 Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
-Text Text Text Text Text
 
+<br/>
 <br/>
 
 <img align="left" width="100" height="100" style="margin-right: 15px;" src="graphics/team/daniel.jpg"/>
 
-[Daniel Gluskin](https://github.com/danielgluskin)
+<h2><b>Daniel Gluskin</b></h2>
+<br/>
 
 Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
 Text Text Text Text Text Text
 
 <br/>
-
